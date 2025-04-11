@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/learning-react/projects/02-conecta-4/'
+  base: '/conecta-4-react-app/'
 })
